@@ -1,0 +1,5 @@
+myvenv
+.idea
+db.sqlite3
+snippets/migrations
+snippets/__pycache__
