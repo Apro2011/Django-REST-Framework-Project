@@ -1,5 +1,9 @@
+*.log
+*.pot
+*.pyc
+
 myvenv
 .idea
 db.sqlite3
-snippets/migrations
-snippets/__pycache__
+migrations
+__pycache__
