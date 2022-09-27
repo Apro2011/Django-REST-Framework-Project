@@ -3,7 +3,7 @@
 *.pyc
 
 myvenv
-.idea
+*.idea
 db.sqlite3
 migrations
 __pycache__
